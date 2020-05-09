@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    STBA TEST
+                    Lara-LTE
                 </div>
 
                 <div class="links">
